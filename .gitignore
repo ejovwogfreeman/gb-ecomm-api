@@ -1,0 +1,5 @@
+# 🔒 Ignore environment variables
+.env
+
+# 📦 Ignore node modules
+node_modules/
